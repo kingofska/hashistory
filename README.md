@@ -3,7 +3,7 @@ h1. hashistory
 
 Simple cross-browser script which leverages the "onhashchange" event even on IE6, using hidden iframe technique
 
-
+h1. license
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
