@@ -1,4 +1,4 @@
-h1. hashistory
+h1.hashistory
 ==========
 
 Simple cross-browser script which leverages the "onhashchange" event even on IE6, using hidden iframe technique
